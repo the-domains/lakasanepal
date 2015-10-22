@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=53OZyxWY6e0&feature=youtu.be'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - mirai
   - siddhartha
 description: 'LakasaNepal ‪#‎RebuildNepal‬ wishes everyone involved in the project a happy dashain.  We feel happy to know in our hearts that more than 375 families had a roof over their head for the monsoon and for the festivals, all because of your kindness.'
-datePublished: '2015-10-22T13:30:15.078Z'
-dateModified: '2015-10-22T13:30:04.703Z'
+datePublished: '2015-10-22T13:44:01.194Z'
+dateModified: '2015-10-22T13:43:44.083Z'
 author:
   - name: Subigya Shakya
     url: 'https://www.youtube.com/user/subigyashakya'
@@ -35,15 +36,14 @@ app_links:
   - url: 'http://www.youtube.com/watch?v=53OZyxWY6e0&feature=applinks'
     type: web
 title: 'Lakasa Nepal #RebuildNepal Update'
+sourcePath: _posts/2015-10-22-lakasa-nepal-rebuildnepal-update.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-10-22-lakasa-nepal-rebuildnepal-update.md
-published: true
-url: lakasa-nepal-rebuildnepal-update/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
